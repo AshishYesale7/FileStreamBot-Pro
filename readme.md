@@ -36,6 +36,14 @@
     This bot will give you streamable download links for Telegram files without the need of waiting till the download completes.
 </p>
 
+### Deploy on Heroku
+
+Press the below button to fast deploy to Heroku
+
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
+
 
 <br>
 <details>
